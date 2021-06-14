@@ -3,8 +3,8 @@
 The Life Cycle Methods of a React Component is catagorized into phases as below.
 
 1. **Mounting** - When the component is being render in the DOM.
-2. **Updating** - When the component is re-rendered on the chnages happened to its props/state of the component.
-3. **UnMounting** - When the component is rempved from the DOM,
+2. **Updating** - When the component is re-rendered on the changes happened to its props/state of the component.
+3. **UnMounting** - When the component is removed from the DOM,
 
 ## Mounting
 
